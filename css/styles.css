@@ -1,0 +1,188 @@
+/* body {
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold;
+}
+
+p {
+  color: #8f8f8f;
+} */
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat-Bold";
+}
+
+p {
+  color: #8f8f8f;
+}
+
+/* Headings */
+.big-heading {
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+#downloading {
+  text-align: center;
+}
+
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/* Containers */
+.container-fluid {
+  padding: 7% 15%;
+}
+
+/* bachground color settings */
+.dark-section {
+  background-color: #D44000;
+}
+
+.light-section {
+  background-color: #FF9F45;
+}
+
+.white-section {
+  background-color: white;
+}
+
+/* nav bar */
+.navbar-brand {
+  font-family: 'Rubik Iso', cursive;
+  font-weight: bold;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+/* Buttons */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Section */
+#title {
+  background-color: #D1512D;
+  color: #fff;
+  text-align: left;
+}
+
+#title .container-fluid {
+  padding: 3% 15% 7%;
+}
+
+.underlined {
+  text-decoration: underline;
+}
+
+/* Title Image */
+.title-image {
+  padding-top: 10px;
+  width: 18%;
+  transform: rotate(-15deg);
+  position: absolute;
+  right: 30%;
+}
+
+.title-image2 {
+  padding-top: 6%;
+  width: 20%;
+  transform: rotate(0);
+  position: absolute;
+  right: 15%;
+}
+
+/* Features Section */
+#features {
+  position: relative;
+  text-align: center;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 4.5%;
+}
+
+.icon {
+  color: #F77E21;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #FAC213;
+}
+
+.testimonial-text {
+  color: white;
+  font-size: 3rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+/* Pricing Section */
+#pricing {
+  padding: 100px;
+}
+
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+/* Footer Section */
+.social-icon {
+  margin: 20px 10px;
+}
+
+.pricing-column {
+  text-align: center;
+}
+
+.plan-description-special {
+  font-weight: bolder;
+  color: #FF005C;
+}
+
+#footer {
+  text-align: center;
+}
+
+.icons {
+  padding-bottom: 15px;
+}
+
+.fa-square-instagram {
+  padding-left: 8px;
+  padding-right: 8px;
+}
